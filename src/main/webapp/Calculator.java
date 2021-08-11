@@ -8,7 +8,7 @@ public class SumNatural {
         {
             // sum = sum + i;
             String s1 = null;
-            s1.toString()
+            s1.toString();
             sum += i;
         }
 
