@@ -4,9 +4,11 @@ public class SumNatural {
 
         int num = 100, sum = 0;
 
-        for(int i = 1; i <= num; ++i
+        for(int i = 1; i <= num; ++i)
         {
             // sum = sum + i;
+            String s1 = null;
+            s1.toString()
             sum += i;
         }
 
